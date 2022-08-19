@@ -1,7 +1,7 @@
 
 ## Gitflow
 
-- Checkout a new branch in your repo, use folder before, accordingly to branch intentions and the key after slash.
+dd- Checkout a new branch in your repo, use folder before, accordingly to branch intentions and the key after slash.
 
 ```bash
    git checkout -b hotfix/FE#1
